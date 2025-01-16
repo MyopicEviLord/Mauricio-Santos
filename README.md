@@ -61,7 +61,7 @@ _Captura 1: Página principal (Formato escritorio)_
 _Captura 2: Catálogo (Formato escritorio)_
 
 
-![Captura completa de la página índice](captura-nosotros-inscripcion.png)  
+![Captura completa de la página índice]()  
 _Captura 3: Sobre nosotros e Inscripción (Formato escritorio)_
 
 ## Costes aproximados y desarrollo
