@@ -17,19 +17,31 @@ De acuerdo a lo aprendido a lo largo del trimestre, los requisitos que debe cump
 * La página de inicio debe llamarse `index.html`.
 * Se deben incluir elementos no vistos en clase, investigados por los propios alumnos.
 
+## Estructura
+
+La siguiente tabla muestra la estructura jerárquica de directorios que componen el proyecto, junto a una breve descripción de sus contenidos.
+
+| Directorio | Contenido |
+|:-----------|:----------|
+| estilos | Contiene el archivo `estilos.css` en el cual se definen todos los estilos aplicados en el sitio mediante CSS. |
+| fuentes | Destinada a almacenar los archivos necesarios en el caso de que se utilizen fuentes de texto externas. En este caso, no se ha utilizado ninguna. |
+| html | Contiene los archivos `catalogo-anime-china.html`, `catalogo-anime-corea.html`, `catalogo-anime-india.html`, `catalogo-anime-japon.html`, `catalogo-anime-pakistan.html`, `catalogo-anime-usa.html`, `index.html` e `inscripcion.html`, en los cuales se define la estructura del contenido de las diferentes páginas de la web mediante HTML5. |
+| imagenes | Dentro se encuentran todas las imágenes utilizadas en el sitio. También se encuentra la carpeta `abc`, que contiene una carpeta por cada letra del abecedario para facilitar la indexación de las diferentes imágenes a la hora de gestionar el compendio alfabético. |
+| scripts | En ella se almacenan los scripts externos utilizados en la web. En este caso se encuentra el archivo `script-boton.js`.
+
 ## Temática
 
 La temática escogida en el caso del grupo fue **Arte**. En primera instancia se barajó la posibilidad de crear una web acerca de una galería de arte urbano ubicada en Puertollano, pero tras un tiempo y viendo la dificultad de recopilar contenido suficiente se llegó al nexo común de la animación japonesa como arte, lo que condujo a crear una página enciclopédica que recopile aquellas series licenciadas en España y disponibles para su visualización.
 
-## Objetivos y utilidades del sitio
+## Utilidades del sitio
 
 El objetivo principal de la página, en adelante AnimeLog<sup>TM</sup>, es el de servir como una base de datos que recopile los animes que pueden verse de una manera u otra en territorio español, clasificados según su país de origen. Si bien existen otras páginas similares, aunque no muchas que sigan activas, la mayoría ignora aquellas animaciones procedentes de otros países que no sean Japón al no considerarlos como tal “anime” propiamente dicho. AnimeLog plantea no hacer ese tipo de diferencias.
 
 >[!NOTE]
 >Algunas webs que se han tomado como referencia son:  
->* https://www.animelicenciado.es/
->* http://misiontokyo.com/
->* https://ramenparados.com/
+>* [Anime Licenciado](https://www.animelicenciado.es/)
+>* [MisionTokyo](http://misiontokyo.com/)
+>* [Ramen Para Dos](https://ramenparados.com/)
 
 ## Logotipo/favicon
 
@@ -38,6 +50,10 @@ _Logotipo 1: Logo completo de AnimeLog._
 
 ![Logo favicon AnimeLog](imagenes/favicon-animelog.png)  
 _Logotipo 2: Logo favicon de AnimeLog._
+
+## Capturas
+
+![Captura completa de la página índice](captura_indice.png)
 
 ## Costes aproximados y desarrollo
 
