@@ -50,7 +50,7 @@ El objetivo principal de la página, en adelante AnimeLog<sup>TM</sup>, es el de
 _Logotipo 1: Logo completo de AnimeLog._
 
 >[!WARNING]
->Por algún motivo, por más que redimensiono la imagen del logo, siempre se muestra con mucho más tamaño del que debería. Por ahora no he coseguido solucionarlo.
+>Es posible que la frase _Tu fuente de anime en España_ no se vea si está el tema claro activo en GitHub.
 
 ![Logo favicon AnimeLog](imagenes/favicon-animelog.png)  
 _Logotipo 2: Logo favicon de AnimeLog._
