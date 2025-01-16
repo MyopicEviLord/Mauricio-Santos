@@ -45,9 +45,6 @@ El objetivo principal de la página, en adelante AnimeLog<sup>TM</sup>, es el de
 
 ## Logotipo/favicon
 
-![Logo imagen AnimeLog](imagenes/logotipo-transparente-blanco.png)  
-_Logotipo 1: Logo completo de AnimeLog._
-
 ![Logo favicon AnimeLog](imagenes/favicon-animelog.png)  
 _Logotipo 2: Logo favicon de AnimeLog._
 
