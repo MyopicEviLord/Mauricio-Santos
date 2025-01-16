@@ -49,6 +49,9 @@ El objetivo principal de la página, en adelante AnimeLog<sup>TM</sup>, es el de
 ![Logo imagen AnimeLog](imagenes/logotipo-transparente-blanco.png)  
 _Logotipo 1: Logo completo de AnimeLog._
 
+>[!WARNING]
+>Por algún motivo, por más que redimensiono la imagen del logo, siempre se muestra con mucho más tamaño del que debería. Por ahora no he coseguido solucionarlo.
+
 ![Logo favicon AnimeLog](imagenes/favicon-animelog.png)  
 _Logotipo 2: Logo favicon de AnimeLog._
 
