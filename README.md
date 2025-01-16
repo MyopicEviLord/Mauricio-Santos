@@ -45,7 +45,7 @@ El objetivo principal de la página, en adelante AnimeLog<sup>TM</sup>, es el de
 
 ## Logotipo/favicon
 
-![Logo imagen AnimeLog](imagenes/logotipo-transparente-negro.png)  
+![Logo imagen AnimeLog](imagenes/logotipo-transparente-blanco.png)  
 _Logotipo 1: Logo completo de AnimeLog._
 
 ![Logo favicon AnimeLog](imagenes/favicon-animelog.png)  
@@ -53,23 +53,23 @@ _Logotipo 2: Logo favicon de AnimeLog._
 
 ## Capturas
 
-![Captura completa de la página índice](captura-indice.png)  
+![Captura completa de la página índice](capturas/captura-indice.png)  
 _Captura 1: Página principal (Formato escritorio)_
 
-![Captura completa de la página índice](captura-catalogo.png)  
+![Captura completa de la página índice](capturas/captura-catalogo.png)  
 _Captura 2: Catálogo (Formato escritorio)_
 
-![Captura completa de la página índice](captura-nosotros-inscripcion.png)  
+![Captura completa de la página índice](capturas/captura-nosotros-inscripcion.png)  
 _Captura 3: Sobre nosotros e Inscripción (Formato escritorio)_
 
-![Captura completa de la página índice](captura-indice-tablet.png)  
-_Captura 4: Sobre nosotros e Inscripción (Formato escritorio)_
+![Captura completa de la página índice](capturas/captura-indice-tablet.png)  
+_Captura 4: Página principal (Formato de tablet)_
 
-![Captura completa de la página índice](captura-indice-tablet-pequena.png)  
-_Captura 5: Sobre nosotros e Inscripción (Formato escritorio)_
+![Captura completa de la página índice](capturas/captura-indice-tablet-pequena.png)  
+_Captura 5: Página principal (Formato de tablet pequeña)_
 
-![Captura completa de la página índice](captura-indice-movil.png)  
-_Captura 6: Sobre nosotros e Inscripción (Formato escritorio)_
+![Captura completa de la página índice](capturas/captura-indice-movil.png)  
+_Captura 6: Página principal (Formato móvil)_
 
 ## Costes aproximados y desarrollo
 
