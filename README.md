@@ -28,6 +28,7 @@ La siguiente tabla muestra la estructura jerárquica de directorios que componen
 | html | Contiene los archivos `catalogo-anime-china.html`, `catalogo-anime-corea.html`, `catalogo-anime-india.html`, `catalogo-anime-japon.html`, `catalogo-anime-pakistan.html`, `catalogo-anime-usa.html`, `index.html` e `inscripcion.html`, en los cuales se define la estructura del contenido de las diferentes páginas de la web mediante HTML5. |
 | imagenes | Dentro se encuentran todas las imágenes utilizadas en el sitio. También se encuentra la carpeta `abc`, que contiene una carpeta por cada letra del abecedario para facilitar la indexación de las diferentes imágenes a la hora de gestionar el compendio alfabético. |
 | scripts | En ella se almacenan los scripts externos utilizados en la web. En este caso se encuentra el archivo `script-boton.js`.
+| capturas | Contiene las capturas utilizadas en el archivo `README.md` de este repositorio |
 
 ## Temática
 
@@ -44,6 +45,9 @@ El objetivo principal de la página, en adelante AnimeLog<sup>TM</sup>, es el de
 >* [Ramen Para Dos](https://ramenparados.com/)
 
 ## Logotipo/favicon
+
+![Logo imagen AnimeLog](imagenes/logotipo-transparente-blanco.png)  
+_Logotipo 1: Logo completo de AnimeLog._
 
 ![Logo favicon AnimeLog](imagenes/favicon-animelog.png)  
 _Logotipo 2: Logo favicon de AnimeLog._
