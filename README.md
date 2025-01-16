@@ -56,13 +56,20 @@ _Logotipo 2: Logo favicon de AnimeLog._
 ![Captura completa de la página índice](captura-indice.png)  
 _Captura 1: Página principal (Formato escritorio)_
 
-
 ![Captura completa de la página índice](captura-catalogo.png)  
 _Captura 2: Catálogo (Formato escritorio)_
 
-
-![Captura completa de la página índice]()  
+![Captura completa de la página índice](captura-nosotros-inscripcion.png)  
 _Captura 3: Sobre nosotros e Inscripción (Formato escritorio)_
+
+![Captura completa de la página índice](captura-indice-tablet.png)  
+_Captura 4: Sobre nosotros e Inscripción (Formato escritorio)_
+
+![Captura completa de la página índice](captura-indice-tablet-pequena.png)  
+_Captura 5: Sobre nosotros e Inscripción (Formato escritorio)_
+
+![Captura completa de la página índice](captura-indice-movil.png)  
+_Captura 6: Sobre nosotros e Inscripción (Formato escritorio)_
 
 ## Costes aproximados y desarrollo
 
